@@ -15,3 +15,14 @@ https://nodejs.org/en/
 5. To test the WEB API, you can use Chrome Extension POSTMAN
 
 
+Sample JSON object for POST 
+
+{
+ "category":"Science: Computers",
+ "type":"multiple",
+ "difficulty":"easy",
+ "question":"Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
+ "correct_answer":"Apple",
+ "incorrect_answers":["Microsoft","Atari","Commodore"]
+ }
+
