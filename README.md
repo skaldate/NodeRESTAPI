@@ -19,6 +19,7 @@ Sample JSON object for POST
 
 {
  "category":"Science: Computers",
+ "category_id":18,
  "type":"multiple",
  "difficulty":"easy",
  "question":"Which company was established on April 1st, 1976 by Steve Jobs, Steve Wozniak and Ronald Wayne?",
